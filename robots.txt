@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jozre.github.io/cfj/sitemap.cfj.gz
